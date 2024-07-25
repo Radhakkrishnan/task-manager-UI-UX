@@ -2,9 +2,9 @@ Description
 The Task Manager Web Application is a responsive and interactive application built using HTML, CSS, and Bootstrap. This project allows users to manage their tasks efficiently by providing features to add, edit, delete, and mark tasks as completed. The application ensures a seamless user experience with an intuitive navigation system and immediate feedback mechanisms.
 
 Features
-      Add Tasks: Users can add new tasks using a modal form.
-      Edit/Delete Tasks: Dropdown menu options to edit or delete tasks.
-      Task Status: Tasks can be marked as new, in-progress, completed, or cancelled.
+Add Tasks: Users can add new tasks using a modal form.
+Edit/Delete Tasks: Dropdown menu options to edit or delete tasks.
+Task Status: Tasks can be marked as new, in-progress, completed, or cancelled.
       Responsive Design: Ensures compatibility across different devices and screen sizes.
       Navigation: Includes a navbar and breadcrumb for easy navigation.
       Task Lists: Displays tasks in a structured format using Bootstrap cards and list groups.
