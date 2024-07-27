@@ -23,7 +23,7 @@ Project Structure
       script.js: JavaScript file for handling dynamic behaviors (if any).
 Installation
 Clone the repository:
-      git clone https://github.com/Radhakkrishnan/task-manager-UI/UX.git
+      git clone https://github.com/Radhakkrishnan/task-manager-UI-UX.git
       Open index.html in your preferred web browser.
 Future Improvements
       Implementing JavaScript for dynamic task management.
